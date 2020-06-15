@@ -1,0 +1,15 @@
+{
+  "name": "cep_distance",
+  "version": "1.0.0",
+  "description": "get distance between two CEP's",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "prompt-sync": "^4.2.0"
+  }
+}
