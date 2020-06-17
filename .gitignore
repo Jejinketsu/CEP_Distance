@@ -24,7 +24,7 @@ CEP_Distance/.gitignore
 @Jejinketsu Jejinketsu Initial commit
 ce8cf8c now
 104 lines (76 sloc)  1.57 KB
-  
+
 # Logs
 logs
 *.log
@@ -137,7 +137,6 @@ Status
 Help
 Contact GitHub
 Pricing
-API
 Training
 Blog
 About

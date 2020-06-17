@@ -5,7 +5,7 @@ const api = axios.create({
 });
 
 module.exports = {
-    async getDistance(units, origins, destinations, key, language ) {
+    async getDistance(units, origins, destinations, key, language) {
         const response = await api.get("/json", {
             params: {
                 units,

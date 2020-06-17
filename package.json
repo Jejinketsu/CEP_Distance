@@ -4,7 +4,7 @@
   "description": "get distance between two CEP's",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node ./src/index.js"
   },
   "author": "",
   "license": "ISC",
