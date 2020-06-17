@@ -25,6 +25,9 @@ CEP_Distance/.gitignore
 ce8cf8c now
 104 lines (76 sloc)  1.57 KB
 
+# private_keys
+key.json
+
 # Logs
 logs
 *.log
