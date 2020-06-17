@@ -1,11 +1,11 @@
-# Get Started
+# Getting Started
 
 ## Rodando a aplicação
 
 ### Requisitos
-* node LTS
-* axios
-* prompt-sync
+* [node LTS](https://nodejs.org/pt-br/download/)
+* [axios](https://www.npmjs.com/package/axios)
+* [prompt-sync](https://www.npmjs.com/package/prompt-sync?activeTab=readme)
 * key da Google Cloud
 
 Para usar usar o programa instale a última versão estável do Node e rode o comando na raiz do projeto:
